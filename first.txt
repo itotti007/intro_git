@@ -5,3 +5,4 @@ edit 1146
 
 edit1151 second.txt 
 edit1154 git status
+edit1203 git diff
